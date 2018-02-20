@@ -1,5 +1,5 @@
 # PythonForLinguistsTalk
-Notebooks and sample data from my Python for Linguists talk at UTA (Feb 14th, 2018).
+Notebooks and sample data from my Python for Linguists talk at UTA (Feb 16th, 2018).
 
 # Running this notebook
 
@@ -14,6 +14,8 @@ To run this notebook, you will need to install the following Python libraries:
 * Natural Language Toolkit (NLTK)
 * tqdm
 * Pandas
+
+Open Jupyter and navigate to this .ipynb file, then open it.  Every major section is designed to be able to run independently, minus the "Setup Code" section, which should always be run first.
 
 For the first part of the talk, you'll also need to download `glen carrig.txt` from the Github repository and have it in the same folder as this notebook.
 
