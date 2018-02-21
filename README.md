@@ -1,6 +1,6 @@
 # Re-using these materials
 
-The content of the notebook is released under the [Creative Commons Attributional Share-Alike license](https://creativecommons.org/licenses/by-sa/4.0/legalcode).  The code is licensed under the BSD 3-clause license.
+The content of the notebook is released under the [Creative Commons Attributional Share-Alike license](https://creativecommons.org/licenses/by-sa/4.0/legalcode).  The code may be used indepdently of the rest of the notebook, and is licensed under the BSD 3-clause license.
 
 # PythonForLinguistsTalk
 Notebooks and sample data from my Python for Linguists talk at UTA (Feb 16th, 2018).
