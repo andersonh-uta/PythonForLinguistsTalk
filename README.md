@@ -1,6 +1,8 @@
 # PythonForLinguistsTalk
 Notebooks and sample data from my Python for Linguists talk at UTA (Feb 16th, 2018).
 
+The .ipynb file is what the talk was given directly from, with a bit of touching up.  The .tex file was automatically generated from the .ipynb file using nbconvert, and compiled into the .pdf file also in this repository.
+
 # Running this notebook
 
 To run this notebook, you will need to install the following Python libraries:
