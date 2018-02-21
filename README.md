@@ -1,3 +1,7 @@
+# Re-using these materials
+
+The content of the notebook is released under the [Creative Commons Attributional Share-Alike license](https://creativecommons.org/licenses/by-sa/4.0/legalcode).
+
 # PythonForLinguistsTalk
 Notebooks and sample data from my Python for Linguists talk at UTA (Feb 16th, 2018).
 
